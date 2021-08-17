@@ -5,7 +5,7 @@ date: 2021-08-17T01:27:40.260Z
 permalink: /prueba/index.html
 eleventyNavigation:
   order: 5
-  key: prueba
+  key: Prueba
 ---
 **asdasdasdasd**
 
