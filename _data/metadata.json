@@ -1,5 +1,5 @@
 {
   "title": "Elias Rayas",
-  "description": "A template for building a simple porfolio website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
+  "description": "My personal portfolio / blog stuff, made using 11ty and Fernfolio",
   "url": "https://fernfolio.netlify.app"
 }
