@@ -2,7 +2,7 @@
 title: Prueba
 subtitle: Pagina de prueba
 date: 2021-08-17T01:27:40.260Z
-permalink: prueba-pagina
+permalink: /prueba/index.html
 eleventyNavigation:
   order: 5
   key: prueba
