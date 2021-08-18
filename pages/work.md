@@ -1,35 +1,39 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+subtitle: ""
+metaDescription: Some of my professional experience and education
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
-  order: 3
+  order: 4
   key: Work
 ---
-### 👩‍💻 Experience:
+## Professional experience
 
-#### Tesla
+I've worked in many different fields, from CAD drafting to video editing or motion graphics, and web development, but most of my experience is focused on 3D modeling using **Rhinoceros and Grasshopper**.
 
-**Senior Software Engineer** *(2019 - Current)*
+### Flex
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+---
 
-#### Microsoft
+**2019 - current**
 
-**Software Engineer** *(2014 - 2019)*
+#### Additive Manufacturing Mechanical Design Engineer
 
-* Maintained legacy Internet Explorer for 5 long years
+Description here
 
-- - -
+**2017 - 2018**
 
-### 📚 Education:
+#### Tooling Engineer | 3D Designer
 
-#### Harvard
+Description here
 
-**PhD Astronomy** *(2014 - 2015)*
+**2015 - current**
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+#### Altive
+
+Description here
+
+---
+
+## Education
