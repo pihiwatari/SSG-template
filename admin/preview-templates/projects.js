@@ -22,7 +22,7 @@ const Project = createClass({
                   )
                 }</time
               >
-              ${" by Author"}
+              // ${" by Author"}
             </small>
           </p>
 
