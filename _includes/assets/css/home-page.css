@@ -82,3 +82,13 @@
     margin-top: 3rem;
   }
 }
+
+.hero__body {
+  margin-top: 0;
+}
+
+@media (min-width: 1024px) {
+  .hero__body {
+    margin-top: 3rem;
+  }
+}
