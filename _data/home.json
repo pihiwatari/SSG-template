@@ -1,7 +1,6 @@
 {
-  "title": "Hello, my name is Elias",
+  "title": "Hello, I'm Elias",
   "image": "/static/img/render_rad-min.png",
-  "subtitle": "Rhinoceros | Grasshopper 3D Designer | Vue JS developer (in progress)",
-  "image_alt": "Footwear render",
-  "body": "## This section is still under development"
+  "subtitle": "Rhinoceros & Grasshopper 3D Designer | Web Developer",
+  "image_alt": "Footwear render"
 }

@@ -8,9 +8,10 @@ eleventyNavigation:
   order: 4
   key: Work
 ---
+
 ## Professional experience
 
-I've worked in many different fields, from CAD drafting to video editing or motion graphics, and web development, but most of my experience is focused on 3D modeling using **Rhinoceros and Grasshopper**.
+I've worked in different professional fields, from CAD drafting for Additive Manufacturing to video editing or motion graphics, and web development, but most of my experience is focused on 3D modeling using **Rhinoceros and Grasshopper**.
 
 ### Flex
 
