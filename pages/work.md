@@ -41,8 +41,20 @@ Worked with most plastic AM technologies, focusing on DfAM, reducing part weight
 
 ### Altive
 
-Description here
+This is a personal project I'm working on alongside my wife, a design agency that leverages digital marketing, financial planning, and web design as core services. You can find more at: [Altive website](https://altive.mx/)
 
 ---
 
 ## Education
+
+**2017 - 2021**
+
+Since 2017, I have started to learn online using many of the resources available (Youtube, Udemy, etc.), from Web development to emotional intelligence. I really believe that obtaining knowledge from many different sources gives you a better perspective from how other people learn and share its knowledge.
+
+**2012 - 2015**
+
+ Industrial Design Degree at Universidad de Guadalajara
+
+
+
+
