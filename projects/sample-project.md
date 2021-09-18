@@ -1,8 +1,11 @@
 ---
-title: SAMPLE PROJECT
+title: Archviz for a friend
 summary: TEST
-metaDescription: DESCRIPTION
+metaDescription: Archviz project made in Blender
 tags:
-  - project
+  - Archviz
+  - Blender
+  - 3Dmodel
+  - ""
 ---
 ASDASDASDAS
