@@ -12,12 +12,26 @@ tags:
 
 I and my wife met with some friends who have an idea for their new business, a Japanese food catering service. So, they invited me to try some of the food (delicious btw!). 
 
-![Yuta's dish n°1]()
+![Yuta's dish n°1]( "Can't remember the name, but it is fried fish")
 
 We chatted for a couple of hours about how their project was going, and then they ask us to create an interior design concept for them, to which we agreed. I was given the task to make some renders that begin with the 2D layout, my wife [@nebu_hime](https://www.instagram.com/nebu_hime/?hl=es-la) was responsible for that part.
 
-Then I modeled every item you see in the final render using some reference images provided by our friends.
+Then I started modeling all the furniture and the walls, all of which was a reference from some photos.
+
+![Blender 3D: A bench and some walls](/static/img/2_090921.jpg "Base walls and a wood bench... at least it's supposed to be one.")
+
+Most of the furniture was designed following this concept of minimalism so, the shapes are pretty straightforward (everything is just straight lines).
+
+![Blender 3D: A couch and more walls](/static/img/5_120921.jpg "Base model for the couch.")
+
+Finally, I downloaded some free textures and tweaked them just a tiny bit to get the colors from the wood, as well as a free 3D model for the lamp. I recycled some of the textures as well.
 
 And this is the final result:
 
+![Blender 3D: A living room concept render image.](/static/img/11_180921.png "Shot #1")
+
+And another shot:
+
 ![A living room render with some furniture and wooden wall, in a Japanese style.](/static/img/12_180921.png "Shot #2")
+
+Aaaaaand this is a tutorial/project showcase on how to exchange any service (actually only 3D modeling and rendering) for food. Hope you liked it.
