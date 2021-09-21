@@ -12,9 +12,11 @@ tags:
 
 I and my wife met with some friends who have an idea for their new business, a Japanese food catering service. So, they invited me to try some of the food (delicious btw!). 
 
-![Yuta's dish n°1]( "Can't remember the name, but it is fried fish")
+![Yuta's dish n°1](/static/img/whatsapp-image-2021-09-20-at-9.21.53-pm-2-.jpeg "Can't remember the name, but it is fried fish and it was delicious!")
 
-We chatted for a couple of hours about how their project was going, and then they ask us to create an interior design concept for them, to which we agreed. I was given the task to make some renders that begin with the 2D layout, my wife [@nebu_hime](https://www.instagram.com/nebu_hime/?hl=es-la) was responsible for that part.
+![A table with beer, fried fish and salad.](/static/img/whatsapp-image-2021-09-20-at-9.21.53-pm-1-.jpeg "We got even more goodies!")
+
+After the main dish and some dessert (mochis), we chatted for a couple of hours about how their project was going, and then they ask us to create an interior design concept for them, to which we agreed. I was given the task to make some renders that begin with the 2D layout, my wife [@nebu_hime](https://www.instagram.com/nebu_hime/?hl=es-la) was responsible for that part.
 
 Then I started modeling all the furniture and the walls, all of which was a reference from some photos.
 
