@@ -14,7 +14,11 @@ I and my wife met with some friends who have an idea for their new business, a J
 
 ![Yuta's dish n°1](/static/img/whatsapp-image-2021-09-20-at-9.21.53-pm-2-.jpeg "Can't remember the name, but it is fried fish and it was delicious!")
 
+Can't remember the name, but it is fried fish and it was delicious!
+
 ![A table with beer, fried fish and salad.](/static/img/whatsapp-image-2021-09-20-at-9.21.53-pm-1-.jpeg "We got even more goodies!")
+
+We got even more goodies!
 
 After the main dish and some dessert (mochis), we chatted for a couple of hours about how their project was going, and then they ask us to create an interior design concept for them, to which we agreed. I was given the task to make some renders that begin with the 2D layout, my wife [@nebu_hime](https://www.instagram.com/nebu_hime/?hl=es-la) was responsible for that part.
 
@@ -22,9 +26,13 @@ Then I started modeling all the furniture and the walls, all of which was a refe
 
 ![Blender 3D: A bench and some walls](/static/img/2_090921.jpg "Base walls and a wood bench... at least it's supposed to be one.")
 
+Some walls and a wood bench... at least it's supposed to be one.
+
 Most of the furniture was designed following this concept of minimalism so, the shapes are pretty straightforward (everything is just straight lines).
 
 ![Blender 3D: A couch and more walls](/static/img/5_120921.jpg "Base model for the couch.")
+
+The living room couch was next.
 
 Finally, I downloaded some free textures and tweaked them just a tiny bit to get the colors from the wood, as well as a free 3D model for the lamp. I recycled some of the textures as well.
 
