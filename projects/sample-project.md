@@ -10,7 +10,7 @@ tags:
 ---
 ## How to work with your friends, if they're just starting their project? Just share what you can do to help them.
 
-I and my wife met with some friends who have an idea for their new business, a Japanese food catering service. So, they invited me to try some of the food (delicious btw!). 
+Me and my wife met with some friends who have an idea for their new business, a Japanese food catering service. So, they invited me to try some of the food (delicious btw!). 
 
 ![Yuta's dish n°1](/static/img/whatsapp-image-2021-09-20-at-9.21.53-pm-2-.jpeg "Can't remember the name, but it is fried fish and it was delicious!")
 
