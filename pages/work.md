@@ -8,12 +8,11 @@ eleventyNavigation:
   order: 4
   key: Work
 ---
-
 ## Professional experience
 
-I've worked in different professional fields, from CAD drafting for Additive Manufacturing to video editing or motion graphics, and web development, but most of my experience is focused on 3D modeling using **Rhinoceros**, **Grasshopper** and **Blender**.
+I've worked in different professional fields, from CAD drafting for Additive Manufacturing to video editing or motion graphics, and web development, but most of my experience is focused on 3D modeling using **Rhinoceros**, **Grasshopper,** and **Blender**.
 
----
+- - -
 
 ### Flex
 
@@ -23,19 +22,19 @@ I've worked in different professional fields, from CAD drafting for Additive Man
 
 Worked with most plastic AM technologies, focusing on DfAM, reducing part weight and material consumption, and 3D printing implementation. Some of my key accomplishments include:
 
-+ Implemented automated design processes, reducing design time in multi-part design projects up to 100%.
-+ Reduced tooling costs up to 2x, compared to solutions offered by external suppliers.
-+ Designed 100+ parts for Additive Manufacturing technologies.
+* Implemented automated design processes, reducing design time in multi-part design projects up to 100%.
+* Reduced tooling costs up to 2x, compared to solutions offered by external suppliers.
+* Designed 100+ parts for Additive Manufacturing technologies.
 
 **2017 - 2018**
 
 #### Tooling Engineer | 3D Designer
 
-+ Generate +30 definitions in Grasshopper for tooling design automation.
-+ Take the development of 3D footwear modeling projects from the initial sketch to the first mold sample.
-+ Reduce tooling development times by 150%.
+* Generate +30 definitions in Grasshopper for tooling design automation.
+* Take the development of 3D footwear modeling projects from the initial sketch to the first mold sample.
+* Reduce tooling development times by 150%.
 
----
+- - -
 
 **2015 - current**
 
@@ -43,7 +42,7 @@ Worked with most plastic AM technologies, focusing on DfAM, reducing part weight
 
 This is a personal project I'm working on alongside my wife, a design agency that leverages digital marketing, financial planning, and web design as core services. You can find more at: [Altive website](https://altive.mx/)
 
----
+- - -
 
 ## Education
 
@@ -54,7 +53,3 @@ Since 2017, I have started to learn online using many of the resources available
 **2012 - 2015**
 
  Industrial Design Degree at Universidad de Guadalajara
-
-
-
-
