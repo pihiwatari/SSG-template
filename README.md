@@ -1,6 +1,8 @@
 # About
 
-This is my personal portfolio repo, which is based off [Ferfolio](https://fernfolio.netlify.app/) by [Tyler M. Roderick](https://www.tylerroderick.com/). I'm trying to modify some of the structure of the template to better suit my needs, so expect changes somewhere in the future. 
+**This is still a Work In Progress**
+
+This is my personal portfolio repo (you can find it [here](https://www.eliasrayas.com)), which is based off [Ferfolio](https://fernfolio.netlify.app/) by [Tyler M. Roderick](https://www.tylerroderick.com/). I'm trying to modify some of the structure of the template to better suit my needs, so expect changes somewhere in the future. 
 
 ---
 
