@@ -16,7 +16,7 @@ I've worked in different professional fields, from CAD drafting for Additive Man
 
 ### Flex
 
-**2019 - current**
+**January 2019 - current**
 
 #### Additive Manufacturing Mechanical Design Engineer
 
@@ -26,7 +26,7 @@ Worked with most plastic AM technologies, focusing on DfAM, reducing part weight
 * Reduced tooling costs up to 2x, compared to solutions offered by external suppliers.
 * Designed 100+ parts for Additive Manufacturing technologies.
 
-**2017 - 2018**
+**April 2017 - January 2019**
 
 #### Tooling Engineer | 3D Designer
 
@@ -36,7 +36,7 @@ Worked with most plastic AM technologies, focusing on DfAM, reducing part weight
 
 - - -
 
-**2015 - current**
+**December 2015 - current**
 
 ### Altive
 
