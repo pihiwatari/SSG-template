@@ -38,9 +38,9 @@ Worked with most plastic AM technologies, focusing on DfAM, reducing part weight
 
 **December 2015 - current**
 
-### Altive
+### Altive | Additive Manufacturing Solutions Specialist
 
-This is a personal project I'm working on alongside my wife, a design agency that leverages digital marketing, financial planning, and web design as core services. You can find more at: [Altive website](https://altive.mx/)
+Leveraged the capabilities of AM to offer cost-efficient, faster solutions to common and complex traditional manufacturing problems. You can find more at: [Altive website](https://altive.mx/)
 
 - - -
 
