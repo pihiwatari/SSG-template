@@ -54,4 +54,4 @@ And a shot from another angle:
 
 ![A living room render with some furniture and wooden wall, in a Japanese style.](/static/img/12_180921.png "Shot #2")
 
-Aaaaaand this is a tutorial/project showcase on how to exchange any service (actually only 3D modeling and rendering) for food. I really hope you liked it.
+The project is still a work in progress, so I expect to update this post later next year. I really hope you liked it.
